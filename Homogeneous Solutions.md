@@ -24,3 +24,5 @@ If we have complex roots: $\lambda_1=a+bi$ that are distinct: just uses the comp
 ![[Pasted image 20240202141209.png]]
 Afterwards, should rewrite the solution using trig.
 
+Solution will be in the form:
+$$C_3e^{ax}cos(bx)+C_4e^{ax}sin(bx)$$
