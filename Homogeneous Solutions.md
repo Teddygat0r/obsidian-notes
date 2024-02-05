@@ -26,3 +26,9 @@ Afterwards, should rewrite the solution using trig.
 
 Solution will be in the form:
 $$C_3e^{ax}cos(bx)+C_4e^{ax}sin(bx)$$
+
+To summarize: solve the polynomial for each $\lambda_n$, allowing for complex solutions.
+Write $y_1$ to $y_n$ using $\lambda_1$ to $\lambda_n$ with:
+1. Distinct real: $y_1=e^{\lambda_1x}$ 
+2. Repeated Real: $y_1=e^{\lambda_1x}$ and $y_2=xe^{\lambda_2x}$
+3. Distinct complex: $y_1=e^{ax}cos(bx)$ and $y_2
