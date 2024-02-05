@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homogeneous Solutions.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homogeneous Solutions.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homogeneous Solutions.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homogeneous Solutions.md"
+                "file": "README.md"
               }
             }
           }
@@ -163,11 +163,11 @@
   "active": "dbf7d2d194643477",
   "lastOpenFiles": [
     "Pasted image 20240205135556.png",
-    "Linear ODEs.md",
     "Pasted image 20240202141209.png",
     "README.md",
     "Welcome.md",
     "Math207/Homogeneous Solutions.md",
+    "Linear ODEs.md",
     "Homogeneous Solutions.md",
     "Pasted image 20240202141132.png",
     "Pasted image 20240202121027.png",
