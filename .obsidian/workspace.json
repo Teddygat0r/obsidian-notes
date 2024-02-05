@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3bbae85cd0469ce8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homogeneous Solutions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,11 +145,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b383119ecf16dda8",
+  "active": "d8c95c58572e9e0c",
   "lastOpenFiles": [
-    "README.md",
-    "Linear ODEs.md",
     "Homogeneous Solutions.md",
+    "Linear ODEs.md",
+    "README.md",
     "Pasted image 20240202121027.png",
     "Pasted image 20240202141209.png",
     "Pasted image 20240202141132.png"
