@@ -24,4 +24,3 @@ If we have complex roots: $\lambda_1=a+bi$ that are distinct: just uses the comp
 ![[Pasted image 20240202141209.png]]
 Afterwards, should rewrite the solution using trig.
 
-Continue.
