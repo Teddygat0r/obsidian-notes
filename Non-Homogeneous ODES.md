@@ -17,5 +17,9 @@ How to guess number very good professional :thumbsup:
 | $f(x)$ | $y_p(x)$ |
 | ---- | ---- |
 | Polynomial of size n | $a_nx^n+...a_1x+a_0$ |
-| $ke^{\alpha x}$ | $Ae^{\alpha x}$  |
-| $k_1cos() |  |
+| $ke^{\alpha x}$ | $Ae^{\alpha x}$ |
+| $k_1cos(\beta x)+k_2sin(\beta x)$ | $Acos(\beta x)+Bsin(\beta x)$ |
+| $f_1(x) * f_2(x)$ | $y_{p1}(x)*y_{p2}(x)$ |
+| If $y_p$ has a common term with $y_n$ | Reguess $y_{pnew}=y_p*x^n$  |
+| If $f(x)=f_1(x)+f_2(x)$ |  |
+![[Pasted image 20240205204741.png]]
