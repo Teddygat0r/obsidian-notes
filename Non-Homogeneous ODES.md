@@ -21,5 +21,5 @@ How to guess number very good professional :thumbsup:
 | $k_1cos(\beta x)+k_2sin(\beta x)$ | $Acos(\beta x)+Bsin(\beta x)$ |
 | $f_1(x) * f_2(x)$ | $y_{p1}(x)*y_{p2}(x)$ |
 | If $y_p$ has a common term with $y_n$ | Reguess $y_{pnew}=y_p*x^n$  |
-| If $f(x)=f_1(x)+f_2(x)$ |  |
+| If $f(x)=f_1(x)+f_2(x)$ | $y_{p_1new}(x)+y_{p_2new}(x)$ |
 ![[Pasted image 20240205204741.png]]
