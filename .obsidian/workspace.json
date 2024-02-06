@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Homogeneous Solutions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1ae51ef4effbf54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Non-Homogeneous ODES.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e6225bbd29cd2a8f",
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Non-Homogeneous ODES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Non-Homogeneous ODES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Non-Homogeneous ODES.md"
               }
             }
           }
@@ -160,15 +173,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dbf7d2d194643477",
+  "active": "f1ae51ef4effbf54",
   "lastOpenFiles": [
+    "Homogeneous Solutions.md",
+    "Non-Homogeneous ODES.md",
+    "Linear ODEs.md",
+    "README.md",
     "Pasted image 20240205135556.png",
     "Pasted image 20240202141209.png",
-    "README.md",
     "Welcome.md",
     "Math207/Homogeneous Solutions.md",
-    "Linear ODEs.md",
-    "Homogeneous Solutions.md",
     "Pasted image 20240202141132.png",
     "Pasted image 20240202121027.png",
     "Math207/README.md",
