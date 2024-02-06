@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dbf7d2d194643477",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homogeneous Solutions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f1ae51ef4effbf54",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e6225bbd29cd2a8f",
@@ -175,10 +162,10 @@
   },
   "active": "f1ae51ef4effbf54",
   "lastOpenFiles": [
-    "Pasted image 20240202121027.png",
-    "Linear ODEs.md",
     "Homogeneous Solutions.md",
     "Non-Homogeneous ODES.md",
+    "Linear ODEs.md",
+    "Pasted image 20240202121027.png",
     "README.md",
     "Pasted image 20240205135556.png",
     "Pasted image 20240202141209.png",
