@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Non-Homogeneous ODES.md",
+                "file": "Homogeneous Solutions.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Non-Homogeneous ODES.md",
+                "file": "Homogeneous Solutions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Non-Homogeneous ODES.md",
+                "file": "Homogeneous Solutions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Non-Homogeneous ODES.md"
+                "file": "Homogeneous Solutions.md"
               }
             }
           }
@@ -162,10 +162,10 @@
   },
   "active": "f1ae51ef4effbf54",
   "lastOpenFiles": [
+    "Linear ODEs.md",
+    "Non-Homogeneous ODES.md",
     "Pasted image 20240205204741.png",
     "Homogeneous Solutions.md",
-    "Non-Homogeneous ODES.md",
-    "Linear ODEs.md",
     "Pasted image 20240202121027.png",
     "README.md",
     "Pasted image 20240205135556.png",
