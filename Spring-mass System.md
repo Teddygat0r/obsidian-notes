@@ -23,3 +23,5 @@ Example:
 $$\frac{1}{2}cos(\omega t)+\frac{\sqrt{3}}{2}sin(\omega t)$$
 $$cos(\frac{\pi}{3})*cos(\omega t)+\sin(\frac{\pi}{3})*sin(\omega t)$$
 $$cos(\omega t-\frac{\pi}{3})$$
+![[Pasted image 20240213181411.png]]
+
