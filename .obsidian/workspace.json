@@ -18,22 +18,21 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "e6225bbd29cd2a8f",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "5755500f182fccaa",
+            "id": "4a9e0098084fdbe2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Non-Homogeneous ODES.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Non-Homogeneous ODES.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Non-Homogeneous ODES.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -160,11 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1ae51ef4effbf54",
+  "active": "4a9e0098084fdbe2",
   "lastOpenFiles": [
-    "Homogeneous Solutions.md",
-    "Linear ODEs.md",
     "Non-Homogeneous ODES.md",
+    "Untitled.md",
+    "Linear ODEs.md",
+    "Homogeneous Solutions.md",
     "Pasted image 20240205204741.png",
     "Pasted image 20240202121027.png",
     "README.md",
