@@ -15,3 +15,6 @@ Damped: $c\neq0$
 
 Undamped model, simple harmonic motion:
 $$mx''+kx=0$$$$x(t)=C_1cos(\sqrt{\frac{k}{m}}t) + C_2sin(\sqrt{\frac{k}{m}}t)$$
+We will want to rewrite this as $Rcos(\omega t-\phi)$
+Use ->
+$$cos(A-B)=cos(A)cos(B)+sin(A)sin(B)$$
