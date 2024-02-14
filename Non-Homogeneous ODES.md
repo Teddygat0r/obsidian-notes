@@ -25,4 +25,4 @@ How to guess number very good professional :thumbsup:
 ![[Pasted image 20240205204741.png]]
 
 Recall that no term of the trial solution may solve the homogeneous equation
-Multiply by x if any part of the solution is so
+Multiply by x if any part of the solution is solved.
