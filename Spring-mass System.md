@@ -18,3 +18,8 @@ $$mx''+kx=0$$$$x(t)=C_1cos(\sqrt{\frac{k}{m}}t) + C_2sin(\sqrt{\frac{k}{m}}t)$$
 We will want to rewrite this as $Rcos(\omega t-\phi)$
 Use ->
 $$cos(A-B)=cos(A)cos(B)+sin(A)sin(B)$$
+
+Example:
+$$\frac{1}{2}cos(\omega t)+\frac{\sqrt{3}}{2}sin(\omega t)$$
+$$cos(\frac{\pi}{3})*cos(\omega t)+\sin(\frac{\pi}{3})*sin(\omega t)$$
+$$cos(\omega t-\frac{\pi}{3})$$
