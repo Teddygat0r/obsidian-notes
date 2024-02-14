@@ -8,5 +8,10 @@ Model:
 - x'(t): velocity of system
 - x''(t): acceleration
 
-By Newton's Law: $$F=ma = F_{spring}+F_{damping}$$
-$$-kx-cx'=mx''$$
+By Newton's Law: $$F=ma = F_{spring}+F_{damping}$$$$-kx-cx'=mx''$$
+$$mx''+cx'+kx=0$$
+
+Damped: $c\neq0$
+
+Undamped model, simple harmonic motion:
+$$mx''+kx=0$$$$x(t)=C_1cos(\sqrt{\frac{k}{m}}t) + C_2sin(\sqrt{\frac{k}{m}}t)$$
