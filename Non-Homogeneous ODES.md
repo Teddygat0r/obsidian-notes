@@ -1,4 +1,4 @@
-Solutions to other odes [[Linear ODEs]]
+	Solutions to other odes [[Linear ODEs]]
 
 Given a non-homogeneous ODE:
 $$a_ny^n(x)+a_{n-1}y^{n-1}(x)+...+a_0y(x)=f(x)$$
@@ -23,3 +23,6 @@ How to guess number very good professional :thumbsup:
 | If $y_p$ has a common term with $y_n$ | Reguess $y_{pnew}=y_p*x^n$  |
 | If $f(x)=f_1(x)+f_2(x)$ | $y_{p_1new}(x)+y_{p_2new}(x)$ |
 ![[Pasted image 20240205204741.png]]
+
+Recall that no term of the trial solution may solve the homogeneous equation
+Multiply by x if any part of the solution is so
