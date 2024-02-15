@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Non-Homogeneous ODES.md",
+                "file": "Spring-mass System.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homogeneous Solutions.md",
+                "file": "Spring-mass System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homogeneous Solutions.md",
+                "file": "Spring-mass System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homogeneous Solutions.md"
+                "file": "Spring-mass System.md"
               }
             }
           }
@@ -159,14 +158,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b9bbc1722cd4bba",
+  "active": "4a9e0098084fdbe2",
   "lastOpenFiles": [
+    "Non-Homogeneous ODES.md",
+    "Homogeneous Solutions.md",
     "Spring-mass System.md",
     "Linear ODEs.md",
-    "Non-Homogeneous ODES.md",
     "conflict-files-obsidian-git.md",
     "README.md",
-    "Homogeneous Solutions.md",
     "Pasted image 20240213181411.png",
     "Pasted image 20240205204741.png",
     "Pasted image 20240205135556.png",

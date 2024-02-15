@@ -40,3 +40,6 @@ Underdamped:
 $$c^2-4mk<0$$
 Create a complex solution
 $$x_n=e^{\frac{c}{2m}t}(C_1cos(\omega t)+C_2sin(\omega t))$$
+
+For an underdamped thingy, 
+Quasifrequency: $\sqrt{\frac{4mk-c^2}{}}
