@@ -38,3 +38,5 @@ Both $\lambda$ are real, equal each other so the solution is:
 $$x_h=c_1e^{\lambda_1t}+c_2xe^{\lambda_2t}$$
 Underdamped:
 $$c^2-4mk<0$$
+Create a complex solution
+$$x_n=e^{\frac{c}{2m}t}(C_1cos(\omega t)+C_2sin(\omega t))$$
