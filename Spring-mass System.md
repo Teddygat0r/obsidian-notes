@@ -34,3 +34,7 @@ Both $\lambda < 0$ so $x_n(t)->0 (t->\inf)$
 
 Critically damped:
 $$c^2-4mk=0$$
+Both $\lambda$ are real, equal each other so the solution is:
+$$x_h=c_1e^{\lambda_1t}+c_2xe^{\lambda_2t}$$
+Underdamped:
+$$c^2-4mk<0$$
