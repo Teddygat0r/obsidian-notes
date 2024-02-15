@@ -25,3 +25,12 @@ $$cos(\frac{\pi}{3})*cos(\omega t)+\sin(\frac{\pi}{3})*sin(\omega t)$$
 $$cos(\omega t-\frac{\pi}{3})$$
 ![[Pasted image 20240213181411.png]]
 
+
+Overdamped Case:
+$$c^2-4mk>0$$ Real solutions:
+$$x_h=c_1e^{\lambda_1t}+c_2e^{\lambda_2t}$$
+Both $\lambda < 0$ so $x_n(t)->0 (t->\inf)$
+
+
+Critically damped:
+$$c^2-4mk=0$$
