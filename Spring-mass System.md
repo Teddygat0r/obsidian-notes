@@ -42,4 +42,6 @@ Create a complex solution
 $$x_n=e^{\frac{c}{2m}t}(C_1cos(\omega t)+C_2sin(\omega t))$$
 
 For an underdamped thingy, 
-Quasifrequency: $\sqrt{\frac{4mk-c^2}{}}
+Quasifrequency: $$\frac{\sqrt{4mk-c^2}}{2m}$$
+Quasiperiod:
+$$\frac{2\pi}{quasifrequency}=\frac{4\pi}{\sqrt{4mk-c^2}}$$
