@@ -1,204 +1,185 @@
 {
-    "main": {
-        "id": "5328c2797f277a0b",
-        "type": "split",
+  "main": {
+    "id": "5328c2797f277a0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ec5b3a2d9a83afa",
+        "type": "tabs",
         "children": [
-            {
-                "id": "9ec5b3a2d9a83afa",
-                "type": "tabs",
-                "children": [
-                    {
-                        "id": "4a9e0098084fdbe2",
-                        "type": "leaf",
-                        "state": {
-                            "type": "markdown",
-                            "state": {
-                                "file": "Non-Homogeneous ODES.md",
-                                "mode": "source",
-                                "source": false
-                            }
-                        }
-                    },
-                    {
-                        "id": "8b9bbc1722cd4bba",
-                        "type": "leaf",
-                        "state": {
-                            "type": "markdown",
-                            "state": {
-                                "file": "conflict-files-obsidian-git.md",
-                                "mode": "source",
-                                "source": false
-                            }
-                        }
-                    }
-                ],
-                "currentTab": 1
-            },
-            {
-                "id": "e6225bbd29cd2a8f",
-                "type": "tabs",
-                "children": [
-                    {
-                        "id": "a9428d147677d36c",
-                        "type": "leaf",
-                        "state": {
-                            "type": "markdown",
-                            "state": {
-                                "file": "Spring-mass System.md",
-                                "mode": "source",
-                                "source": false
-                            }
-                        }
-                    }
-                ],
-                "currentTab": 1
+          {
+            "id": "4a9e0098084fdbe2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Non-Homogeneous ODES.md",
+                "mode": "source",
+                "source": false
+              }
             }
+          },
+          {
+            "id": "8b9bbc1722cd4bba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homogeneous Solutions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
         ],
-        "direction": "vertical"
-    },
-    "left": {
-        "id": "c1c125a48f9844dd",
-        "type": "split",
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c1c125a48f9844dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "36fb68ee2d41902f",
+        "type": "tabs",
         "children": [
-            {
-                "id": "36fb68ee2d41902f",
-                "type": "tabs",
-                "children": [
-                    {
-                        "id": "88766835f2501b54",
-                        "type": "leaf",
-                        "state": {
-                            "type": "file-explorer",
-                            "state": {
-                                "sortOrder": "alphabetical"
-                            }
-                        }
-                    },
-                    {
-                        "id": "5803fed21587a49a",
-                        "type": "leaf",
-                        "state": {
-                            "type": "search",
-                            "state": {
-                                "query": "",
-                                "matchingCase": false,
-                                "explainSearch": false,
-                                "collapseAll": false,
-                                "extraContext": false,
-                                "sortOrder": "alphabetical"
-                            }
-                        }
-                    },
-                    {
-                        "id": "8616adb04b79ed33",
-                        "type": "leaf",
-                        "state": {
-                            "type": "bookmarks",
-                            "state": {}
-                        }
-                    }
-                ]
+          {
+            "id": "88766835f2501b54",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
-        ],
-        "direction": "horizontal",
-        "width": 300
-    },
-    "right": {
-        "id": "0188af0839ddd4d8",
-        "type": "split",
+          },
+          {
+            "id": "5803fed21587a49a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8616adb04b79ed33",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0188af0839ddd4d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "63f0dbe49cf172d3",
+        "type": "tabs",
         "children": [
-            {
-                "id": "63f0dbe49cf172d3",
-                "type": "tabs",
-                "children": [
-                    {
-                        "id": "724afd1522481e88",
-                        "type": "leaf",
-                        "state": {
-                            "type": "backlink",
-                            "state": {
-                                "file": "conflict-files-obsidian-git.md",
-                                "collapseAll": false,
-                                "extraContext": false,
-                                "sortOrder": "alphabetical",
-                                "showSearch": false,
-                                "searchQuery": "",
-                                "backlinkCollapsed": false,
-                                "unlinkedCollapsed": true
-                            }
-                        }
-                    },
-                    {
-                        "id": "04f8c77b3a7ea17b",
-                        "type": "leaf",
-                        "state": {
-                            "type": "outgoing-link",
-                            "state": {
-                                "file": "conflict-files-obsidian-git.md",
-                                "linksCollapsed": false,
-                                "unlinkedCollapsed": true
-                            }
-                        }
-                    },
-                    {
-                        "id": "525c54cd3139cf1e",
-                        "type": "leaf",
-                        "state": {
-                            "type": "tag",
-                            "state": {
-                                "sortOrder": "frequency",
-                                "useHierarchy": true
-                            }
-                        }
-                    },
-                    {
-                        "id": "caaeb6c086dc410d",
-                        "type": "leaf",
-                        "state": {
-                            "type": "outline",
-                            "state": {
-                                "file": "conflict-files-obsidian-git.md"
-                            }
-                        }
-                    }
-                ]
+          {
+            "id": "724afd1522481e88",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Homogeneous Solutions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
-        ],
-        "direction": "horizontal",
-        "width": 300,
-        "collapsed": true
-    },
-    "left-ribbon": {
-        "hiddenItems": {
-            "switcher:Open quick switcher": false,
-            "graph:Open graph view": false,
-            "canvas:Create new canvas": false,
-            "daily-notes:Open today's daily note": false,
-            "templates:Insert template": false,
-            "command-palette:Open command palette": false
-        }
-    },
-    "active": "8b9bbc1722cd4bba",
-    "lastOpenFiles": [
-        "Non-Homogeneous ODES.md",
-        "conflict-files-obsidian-git.md",
-        "Spring-mass System.md",
-        "README.md",
-        "Linear ODEs.md",
-        "Homogeneous Solutions.md",
-        "Pasted image 20240213181411.png",
-        "Pasted image 20240205204741.png",
-        "Pasted image 20240205135556.png",
-        "Pasted image 20240202141209.png",
-        "Welcome.md",
-        "Math207/Homogeneous Solutions.md",
-        "Pasted image 20240202141132.png",
-        "Pasted image 20240202121027.png",
-        "Math207/README.md",
-        "Math207/Pasted image 20240202141209.png",
-        "Math207/Pasted image 20240202141132.png",
-        "Math207/Pasted image 20240202121027.png",
-        "Math207/Linear ODEs.md",
-        "Math207"
-    ]
+          },
+          {
+            "id": "04f8c77b3a7ea17b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Homogeneous Solutions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "525c54cd3139cf1e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "caaeb6c086dc410d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Homogeneous Solutions.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8b9bbc1722cd4bba",
+  "lastOpenFiles": [
+    "Spring-mass System.md",
+    "Linear ODEs.md",
+    "Non-Homogeneous ODES.md",
+    "conflict-files-obsidian-git.md",
+    "README.md",
+    "Homogeneous Solutions.md",
+    "Pasted image 20240213181411.png",
+    "Pasted image 20240205204741.png",
+    "Pasted image 20240205135556.png",
+    "Pasted image 20240202141209.png",
+    "Welcome.md",
+    "Math207/Homogeneous Solutions.md",
+    "Pasted image 20240202141132.png",
+    "Pasted image 20240202121027.png",
+    "Math207/README.md",
+    "Math207/Pasted image 20240202141209.png",
+    "Math207/Pasted image 20240202141132.png",
+    "Math207/Pasted image 20240202121027.png",
+    "Math207/Linear ODEs.md",
+    "Math207"
+  ]
 }

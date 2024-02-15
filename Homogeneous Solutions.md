@@ -1,4 +1,4 @@
-Given a Homogeneous [[Linear ODEs]]:
+	Given a Homogeneous [[Linear ODEs]]:
 $$y^n(x)+a_{n-1}y^{n-1}x+...+a_1y'(x)+ay(x)=0$$
 Solve with $y=e^{\lambda x}$ and treat like normal equation
 e.g.
