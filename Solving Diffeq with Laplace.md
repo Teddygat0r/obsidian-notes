@@ -4,3 +4,10 @@ For second order differentials:
 $$L\{y'\}=sY(s)-y(0)$$
 $$L\{y^{''}\}=s^2Y(s)-sy(0)-y'(0)$$
 We need initial conditions at t=0
+
+To solve a non-homogeneous differential equation:
+$$y''-10y'+9y=5t, y(0)=-1, y'(0)=2$$
+1. Take the laplace transform of everything. 
+2. Plug in the initial conditions for everything
+3. Solve for $Y(s)$
+4. Perform reverse laplace transform, usually with partial fraction decomposition.
