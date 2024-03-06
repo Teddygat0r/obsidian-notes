@@ -11,3 +11,7 @@ $$y''-10y'+9y=5t, y(0)=-1, y'(0)=2$$
 2. Plug in the initial conditions for everything
 3. Solve for $Y(s)$
 4. Perform reverse laplace transform, usually with partial fraction decomposition.
+$$s^2Y(s)-sy(0)-y'(0)-10sY(s)+10y(0)+9Y(s)=\frac{5}{s^2}$$
+$$s^2Y(s)+s-2-10sY(s)-10+9Y(s)=\frac{5}{s^2}$$
+$$(s^2-10+9)Y(s)+s-12=\frac{5}{s^2}$$
+$$(s^2-10+9)Y(s)=\frac{5}{s^2}-s+12$$
