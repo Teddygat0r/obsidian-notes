@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "2fbf0b40a65ac25e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homogeneous Solutions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8b9bbc1722cd4bba",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solving Diffeq with Laplace.md",
+                "file": "Homogeneous Solutions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Solving Diffeq with Laplace.md",
+                "file": "Homogeneous Solutions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Solving Diffeq with Laplace.md"
+                "file": "Homogeneous Solutions.md"
               }
             }
           }
@@ -171,7 +183,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bea7fe74f492be4d",
+  "active": "2fbf0b40a65ac25e",
   "lastOpenFiles": [
     "Non-Homogeneous ODES.md",
     "Solving Diffeq with Laplace.md",
